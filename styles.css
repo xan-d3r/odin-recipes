@@ -2,7 +2,7 @@
 
 div {
     background: red;
-    font-style: white;
+    color: white;
     font-size: 32px; 
     text-align: center;
     font-weight: bold;
@@ -10,7 +10,7 @@ div {
 
 p {
     background: green;
-    font-style: white;
+    color: white;
     font-size: 18px;
 }
 
